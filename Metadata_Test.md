@@ -1,6 +1,6 @@
-Match:	 
-Win/loss/draw:   
-Goal:     
+Match:	 CLT
+Win/loss/draw:   win
+Goal:     4
 Player:        
 Data: 	  
 Data:           
